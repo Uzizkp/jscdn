@@ -37,13 +37,13 @@ function getRandom() {
 getRandom();
 
 
-for(var i = 0; i < 18; i++){
+for(var i = 0; i < friendsData.length; i++){
 
-    num = Math.floor(Math.random() * friendsData.length);
-    var imgUrl = friendsData[num].Avatar;
-    var fname = friendsData[num].Name;
-    var descr = friendsData[num].Description;
-    var url = friendsData[num].Link;
+    // num = Math.floor(Math.random() * friendsData.length);
+    var imgUrl = friendsData[i].Avatar;
+    var fname = friendsData[i].Name;
+    var descr = friendsData[i].Description;
+    var url = friendsData[i].Link;
     var tags = '#tech';
 
 
