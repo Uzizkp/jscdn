@@ -37,7 +37,7 @@ function getRandom() {
 getRandom();
 
 
-for(var i = 0; i < 13; i++){
+for(var i = 0; i < 18; i++){
 
     num = Math.floor(Math.random() * friendsData.length);
     var imgUrl = friendsData[num].Avatar;
