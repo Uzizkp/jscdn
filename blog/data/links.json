@@ -1,4 +1,4 @@
-var friendsData = [
+friendsData = [
     {
         "Avatar": "https://tvax2.sinaimg.cn/crop.0.0.2048.2048.180/6cc4d03aly8flbwh4eaohj21kw1kwwi4.jpg?KID=imgbed,tva&Expires=1588310790&ssig=N8DLjBRNLz",
         "Description": " a Full-time UI designer with an enduring interest in Coding, Taking pictures and Cycling.",
